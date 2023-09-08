@@ -1,2 +1,9 @@
 metadata_version: 1
-name: 'Allen Institute: Scanpy Visualization'
+name: 'INCF: Scanpy Visualization'
+description: |-
+  Explores the visualization possibilities of scanpy and is divided into three sections:
+      1. Scatter plots for embeddings (eg. UMAP, t-SNE)
+      2. Identification of clusters using known marker genes
+      3. Visualization of differentially expressed genes
+authors:
+- name: Frank Zappulla
