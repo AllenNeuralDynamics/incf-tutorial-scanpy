@@ -1,4 +1,4 @@
-# INCF Workshop: Cell Type Analysis and Visualization with Scanpy
+# INCF Tutorial: Cell Type Analysis and Visualization with Scanpy
 
 ---
 
