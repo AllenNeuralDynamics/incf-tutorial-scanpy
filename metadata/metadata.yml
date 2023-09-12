@@ -1,5 +1,5 @@
 metadata_version: 1
-name: 'INCF: Scanpy Visualization'
+name: 'INCF Tutorial: Scanpy Visualization'
 description: |-
   Explores the visualization possibilities of scanpy and is divided into three sections:
       1. Scatter plots for embeddings (eg. UMAP, t-SNE)
