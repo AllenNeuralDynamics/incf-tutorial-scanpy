@@ -8,6 +8,8 @@ The Allen Institute has generated a [transcriptomic atlas](https://knowledge.bra
 
 This capsule will walk you through processing, clustering and visualization of some of the [10X](https://www.10xgenomics.com/) single-cell transcriptomics data collected from the [primary motor cortex of the adult mouse](https://knowledge.brain-map.org/celltypes/CCN202002013). Data has been preprocessed using [CellRanger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger) in an upstream capsule.
 
+You can also find the capsule on GitHub here: [github/incf-tutorial-scanpy](https://github.com/AllenNeuralDynamics/incf-tutorial-scanpy).
+
 ---
 
 ## How to run the jupyter notebook
